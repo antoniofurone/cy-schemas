@@ -22,7 +22,7 @@
       "start_date": "2024-11-01T00:00:00.000Z"
   },
   "credentialSchema": {
-    "id": "https://github.com/antoniofurone/cy-schemas/raw/master/vc/mef-credential-v8.json",
+    "id": "https://github.com/antoniofurone/cy-schemas/raw/master/vc/mef-credential-v9.json",
     "type": "JsonSchema"
   }
 }
