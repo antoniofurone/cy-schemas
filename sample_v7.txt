@@ -3,7 +3,7 @@
     "https://www.w3.org/2018/credentials/v1",
     "https://w3id.org/vc-revocation-list-2020/v1",
     "https://itn.mobi/2020/credentials/v1",
-    "https://github.com/antoniofurone/cy-schemas/raw/master/vc/mef-credential-v91.json"
+    "https://github.com/antoniofurone/cy-schemas/raw/master/vc/mef-credential-v93.json"
   ],
   "id": "urn:uuid:fe2dc7e9-a6db-4f22-a91d-35965f335f06",
   "type": [
