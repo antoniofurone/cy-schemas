@@ -1,0 +1,28 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc-revocation-list-2020/v1",
+    "https://github.com/antoniofurone/cy-schemas/raw/master/vc/mef-credential-v1.json"
+  ],
+  "id": "urn:uuid:343cb1af-3ce2-4629-8b20-6f3f6168a3fc",
+  "type": [
+    "VerifiableCredential",
+    "MEFMembershipCredential"
+  ],
+  "issuer": {
+    "id": "did:itn:TdPwBjzthjhL2AhdyBgXSY"
+  },
+  "issuanceDate": "2024-12-14T17:07:16.287Z",
+  "expirationDate": "2026-12-14T17:07:16.287Z",
+  "holder": {
+    "id": "did:itn:RaGDZi1hcvL4osNsd3Z2hk"
+  },
+  "credentialSubject": {
+      "type": "Membership",
+      "member": {
+        "type":"Organization",
+        "legalName": "Sparkle"
+        
+      }
+  }
+}
