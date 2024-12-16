@@ -1,0 +1,28 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc-revocation-list-2020/v1",
+    "https://github.com/antoniofurone/cy-schemas/raw/master/vc/itn-credential-v1.json"
+  ],
+  "id": "urn:uuid:6127cc65-dd8f-4e61-8458-82498669d681",
+  "type": [
+    "VerifiableCredential",
+    "ITNMembershipCredential"
+  ],
+  "issuer": {
+    "id": "did:itn:TdPwBjzthjhL2AhdyBgXSY"
+  },
+  "issuanceDate": "2024-12-14T17:07:16.287Z",
+  "expirationDate": "2026-12-14T17:07:16.287Z",
+  "holder": {
+    "id": "did:itn:RaGDZi1hcvL4osNsd3Z2hk"
+  },
+  "credentialSubject": {
+      "type": "Membership",
+      "member": {
+        "type":"Organization",
+        "legalName": "Sparkle"
+        
+      }
+  }
+}
