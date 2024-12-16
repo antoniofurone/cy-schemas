@@ -4,7 +4,7 @@
     "https://w3id.org/vc-revocation-list-2020/v1",
     "https://github.com/antoniofurone/cy-schemas/raw/master/vc/mef-credential-v1.json"
   ],
-  "id": "urn:uuid:343cb1af-3ce2-4629-8b20-6f3f6168a3fc",
+  "id": "urn:uuid:8f116d89-59bf-4d2c-b2d7-68492a0a4ebd",
   "type": [
     "VerifiableCredential",
     "MEFMembershipCredential"
